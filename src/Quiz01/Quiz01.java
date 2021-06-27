@@ -19,7 +19,22 @@ package Quiz01;
 
 public class Quiz01 {
     public static void main(String[] args) {
+//        step01();
+//        step02();
+    }
+
+    private static void step01() {
+        // Step 1 풀이
         String input;
         String[] result;
     }
+
+    private static int step02() {
+        // Step 2 풀이
+        String input;
+        String findChar;
+
+        return 0;
+    }
+
 }
